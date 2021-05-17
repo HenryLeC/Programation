@@ -1,4 +1,14 @@
 {
-  "Python": [],
+  "Python": [
+    {
+      "lesson": "Python is a simple programming language that is dynamically typed (its ok if you don't know what that means). Hello World is very easy to do in python. In python to log something to the console you type in \"print()\". For  example if you want to print out Hi People you would enter \"print(\"Hi People\")\".",
+      "prompt": "Make a program to print out Hello World!",
+      "hint": "Make sure to wrap the text in quotes",
+      "solution": [
+        "print('Hello World!')",
+        "print(\"Hello World!\")"
+      ]
+    }
+  ],
   "TypeScript": []
 }
