@@ -10,13 +10,13 @@
       ]
     },
     {
-      "lesson": "Declaring variables in python is much easier than in other languages. Because python is a dynamically typed language you don't need to declare the data type at assignment. To declare a variable in python you just input "name = value" for example if you want the variable number number_5 to equal 6 you would type \"number_5 = 6\". To set a variable to a string you need to wrap the string in quotes for example \"text = \"Hello\"\".",
+      "lesson": "Declaring variables in python is much easier than in other languages. Because python is a dynamically typed language you don't need to declare the data type at assignment. To declare a variable in python you just input \"name = value\" for example if you want the variable number number_5 to equal 6 you would type \"number_5 = 6\". To set a variable to a string you need to wrap the string in quotes for example \"text = \"Hello\"\".",
       "prompt": "Set a variable named myStory to the text \"On a dark and stormy night\".",
       "hint": "Remember to wrap the text in quotes",
       "solution": [
         "myStory = \"On a dark and stormy night\"",
         "myStory = 'On a dark and stormy night'"
-      ],
+      ]
     },
     {
       "lesson": "To print out a variable is very easy, you just need to call print with the variable. For example \"print(number_5)\".",
@@ -44,5 +44,5 @@
         "oasis.sh"
       ]
     }
-   ]
+  ]
 }
