@@ -29,11 +29,19 @@
   ],
   "TypeScript": [
     {
-      "lesson": "I dont feel like teaching ts",
-      "prompt": "Enter hello",
-      "hint": "hello",
+      "lesson": "TypeScript is a syntactic superset of JavaScript, this means that all JavaScript is valid TypeScript. TypeScript is a statically typed version of JavaScript which allows you to catch more errors on build, vs in testing. To make a variable in ts you can just do \"let var = \"value\"\" That will give you a string variable. To make a number variable you can do \"let var = 5\".",
+      "prompt": "Make a variable named \"var\" equal 5",
+      "hint": "How do you declare a number",
       "solution": [
-        "hello"
+        "let var  = 5"
+      ]
+    },
+    {
+      "lesson": "You can also add type definitions to a variable decleration. To make a variable a string you can do \"let var: string = \"Value\"\". This works becuase the types align, but for example \"let var: string = 5\" does not work because 5 is not a string.",
+      "prompt": "Make a typed variable named \"var\" equal \"value\"",
+      "hint": "How do you declare a typed string",
+      "solution": [
+        "let var: string  = \"value\""
       ]
     },
     {
